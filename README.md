@@ -1,3 +1,3 @@
-#Customer Satisfaction _Facilities
+# Customer Satisfaction _Facilities
 
-Application designed to register customer complaints, track improvements and measure the cost of lack of quality when providing services related to facilities management
+<p>Application designed to register customer complaints, track improvements and measure the cost of lack of quality when providing services related to facilities management</p>
